@@ -37,9 +37,7 @@ const ReactToMessage = () => {
           source={require('../../images/users/girl1.jpeg')}
         />
         <View style={styles.messageContent}>
-          <Text style={styles.messageText}>
-            Like and subscribe to Minh Techie channel
-          </Text>
+          <Text style={styles.messageText}>Chilling 🌊🌊🌊</Text>
           <Text style={styles.messageSentTime}>6:09</Text>
         </View>
 

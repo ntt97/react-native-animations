@@ -67,21 +67,19 @@ const FacebookPostReaction = () => {
       <View style={styles.post}>
         <View style={styles.authorInfoRow}>
           <Image
-            source={require('../../../src/images/minh-logo.png')}
+            source={require('../../../src/images/to-logo.png')}
             style={styles.authorAvatar}
           />
           <View>
-            <Text style={styles.authorName}>Minh Techie</Text>
+            <Text style={styles.authorName}>To Nguyen</Text>
             <Text style={styles.postedTime}>Today</Text>
           </View>
         </View>
 
         <View>
-          <Text style={styles.postContentText}>
-            Like and subscribe to Minh Techie channel
-          </Text>
+          <Text style={styles.postContentText}>Chilling 🌊🌊🌊</Text>
           <Image
-            source={require('../../../src/images/minh-banner.png')}
+            source={require('../../../src/images/to-banner.png')}
             style={styles.postImage}
           />
         </View>

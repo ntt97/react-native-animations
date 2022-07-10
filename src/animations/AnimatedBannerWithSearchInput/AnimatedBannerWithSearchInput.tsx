@@ -84,7 +84,7 @@ export default ({navigation}: any) => {
       <Animated.View style={[styles.bannerContainer, bannerAnimation]}>
         <Image
           style={styles.banner}
-          source={require('../../images/minh-banner.png')}
+          source={require('../../images/to-banner.png')}
         />
       </Animated.View>
       <ScrollView

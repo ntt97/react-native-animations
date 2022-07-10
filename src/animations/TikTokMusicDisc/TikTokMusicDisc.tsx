@@ -109,7 +109,7 @@ export default function TikTokMusicDisc() {
           style={[styles.floatingMusicNote, musicNoteAnimation2]}
         />
         <Animated.Image
-          source={require('../../images/minh-logo.png')}
+          source={require('../../images/to-logo.png')}
           style={[styles.musicDisc, discAnimation]}
         />
       </View>
